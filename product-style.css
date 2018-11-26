@@ -10,6 +10,12 @@ body {
     margin-bottom: 15px;
   }
 
+  .siteTitle {
+    color: #16C0B0;
+    text-align: center;
+    text-decoration: underline;
+  }
+
   .product {
     display: flex;
     flex-flow: wrap;
